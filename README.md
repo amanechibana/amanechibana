@@ -1,11 +1,5 @@
 # Hi there, I'm Amane! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Full-Stack+Engineer;Open+Source+Enthusiast;Always+Learning+%F0%9F%92%BB" alt="Typing SVG" />
-</div>
-
-## 🚀 About Me
-
 I'm a software developer with a deep interest in cloud systems and currently looking at blockchain technology! 
 
 - 🔭 **Currently working on**: [Veritas Chain](https://github.com/amanechibana/veritas-chain) - A blockchain-based academic credential verification system
