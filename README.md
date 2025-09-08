@@ -45,10 +45,6 @@ I'm a software developer with a deep interest in cloud systems and currently loo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanechibana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanechibana&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -58,12 +54,6 @@ I'm a software developer with a deep interest in cloud systems and currently loo
   <a href="https://github.com/amanechibana">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
   
   **Thanks for visiting! Feel free to explore my repositories!** 
 </div>
