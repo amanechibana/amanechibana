@@ -1,4 +1,4 @@
-# Hi there, I'm Amane! 👋
+# Hello!
 
 I'm a software developer with a deep interest in cloud systems and currently looking at blockchain technology! 
 
