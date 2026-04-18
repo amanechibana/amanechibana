@@ -2,8 +2,6 @@
 
 I'm a software developer with a deep interest in cloud systems and currently looking at blockchain technology! 
 
-- **Currently working on**: [Veritas Chain](https://github.com/amanechibana/veritas-chain) - A blockchain-based academic credential verification system
-
 ## 🛠️ Tech Stack
 
 ### Languages
