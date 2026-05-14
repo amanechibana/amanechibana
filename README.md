@@ -1,6 +1,6 @@
 # Hello!
 
-I'm a software developer with a deep interest in cloud systems and currently looking at blockchain technology! 
+Currently Infrastructure Engineer at Sterling Labs! 
 
 ## 🛠️ Tech Stack
 
